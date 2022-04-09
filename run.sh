@@ -1,0 +1,1 @@
+sudo python /data/data/com.termux/files/home/warframe-auto-forma/main.py
